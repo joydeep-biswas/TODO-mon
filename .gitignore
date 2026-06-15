@@ -1,0 +1,12 @@
+# Local Folders
+.todo-mon
+.todo
+.venv
+
+# Local Files
+.env
+*.db
+.DS_Store
+
+# Cache Directories
+__pycache__

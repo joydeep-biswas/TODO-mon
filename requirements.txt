@@ -1,0 +1,5 @@
+fastapi==0.137.0
+fastapi-cli==0.0.24
+fastapi-cloud-cli==0.20.0
+SQLAlchemy==2.0.50
+streamlit==1.58.0
