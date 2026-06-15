@@ -40,16 +40,7 @@ TODO-mon/
 
 ## Getting Started (Local Setup)
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/joydeep-biswas/TODO-mon.git
-cd TODO-mon
-```
-
----
-
-### 2. Create Virtual Environment (Optional)
+### 1. Create Virtual Environment (Optional)
 
 ```bash
 python -m venv .venv
@@ -63,7 +54,7 @@ source .venv/bin/activate
 
 ---
 
-### 3. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -71,7 +62,7 @@ pip install -r requirements.txt
 
 ---
 
-### 4. Initialize Database
+### 3. Initialize Database
 
 ```bash
 cd backend
@@ -80,7 +71,7 @@ python -m scripts.init_db
 
 ---
 
-### 5. Run the Application
+### 4. Run the Application
 
 Start FastAPI backend:
 
