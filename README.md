@@ -43,8 +43,8 @@ TODO-mon/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd project
+git clone https://github.com/joydeep-biswas/TODO-mon.git
+cd TODO-mon
 ```
 
 ---
